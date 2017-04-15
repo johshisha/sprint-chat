@@ -1,9 +1,10 @@
 ## デプロイ情報
+公開：2016年6月〜
 #### サービスURL
-http://johshisha.mydns.jp/
+http://johshisha.mydns.jp/ (停止済み2017年4月時点)
 
 #### リポジトリURL
-https://github.com/johshisha/sprint-winter
+https://github.com/johshisha/sprint-chat
 
 #### 使用言語
 - python
@@ -12,7 +13,7 @@ https://github.com/johshisha/sprint-winter
 - redis,json,gevent,commands,flask,flask_sockets,re,bs4,pickle,requests,collections,Flask, etc..
 
 ####  ホスティングサービス
-- 自宅サーバー（raspberry pi3にサーバを構築）
+- 自宅サーバー（raspberry pi3にサーバを構築）(停止済み2017年4月時点)
 
 ## 独自コマンドの実装
 #### 追加したコマンドと説明
