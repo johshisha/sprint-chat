@@ -1,0 +1,7 @@
+password/password.*
+.env
+*.pyc
+node_modules
+__pycache__
+.idea
+.DS_Store

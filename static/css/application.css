@@ -1,0 +1,16 @@
+
+
+.fixing-base {
+  height: 270px;
+  background-color: #ffffff;
+}
+.fixing-base .fixing-box {
+  position: absolute;
+  background-color: #ffffff;
+  width: 100%;
+  top: 40px;
+}
+.fixing-base.fixed .fixing-box {
+  position: fixed;
+  top: 0px;
+}
