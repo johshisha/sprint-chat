@@ -13,6 +13,7 @@ python2.7.9
 ## 実装機能
 [readme.txt](./readme.txt)に記載  
 [answer.md](./answer.md)にハッカソンで指定されていた実装アピールポイント等を記載  
+[プレゼン用資料の一部](./SprintMeetup.pdf)
 
 ## HOWTO
 password/password_sample.pyを参考に，password/password.pyを作成
